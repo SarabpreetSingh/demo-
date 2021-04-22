@@ -1,3 +1,7 @@
 Demo file
+<<<<<<< HEAD
  demo 
  changes after new branch
+=======
+ demo 
+>>>>>>> 8829d2449f0113d55ce9f6dcb2239e07aa41122f
